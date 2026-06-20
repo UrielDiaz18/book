@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;;
+    background-color: rgb(199, 20, 139);
+    margin-top: 50px;
+}
+
+#carouselExample{
+    width: 650px;
+    height: 600px;
+    img{
+        border-radius: 15px;
+    }
+}
+
+h2{
+    color: rgb(0, 3, 3);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(10, 199, 196);
+    border-radius: 10px;
+}
+
+.player{
+    text-align:center;
+    margin-top:50px;
+}
+
+
